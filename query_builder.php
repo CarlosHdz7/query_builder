@@ -1,5 +1,4 @@
 <?php
-
     class QueryBuilder extends mainApp{
         
         function having($queries){
@@ -250,11 +249,4 @@
        }
         
     }
-    
-    //VERSION 1.2
-    //Cambios en la version 1.2
-    //--Se agrego la funcion checks 
-    
-    //Cambios en la version 1.1
-    //--Se agrego la funcion bulk
 ?>
